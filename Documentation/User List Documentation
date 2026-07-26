@@ -1,0 +1,9 @@
+Inside Documentation folder:
+Upload your Day 1 domain setup notes (domain name, DC name, static IP, date)
+Name it “Domain Config File”
+Upload your Day 2 OU and security group documentation (OU names, group names, purpose of each)
+Name it “Security Group Doc”
+Upload your Day 3 user list documentation (all 15 users with usernames, UPNs, departments, job titles, group assignments)
+Name it “User List Documentation”
+Create a new file called RBAC-Structure.md that maps out:
+Call the file “RBAC-Structure.MD”
